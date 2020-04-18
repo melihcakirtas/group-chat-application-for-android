@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "433376133738",
+    "firebase_url": "https://chat-application-f05e5.firebaseio.com",
+    "project_id": "chat-application-f05e5",
+    "storage_bucket": "chat-application-f05e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433376133738:android:f48e8c5b51e12a4087c013",
+        "android_client_info": {
+          "package_name": "com.melih.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433376133738-1ik0e8os6fal3g8slo19kmciubjihq1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcEyBIrFz4KOdCV8z6De6kx0Sqshl8IY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433376133738-1ik0e8os6fal3g8slo19kmciubjihq1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
